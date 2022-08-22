@@ -1,16 +1,16 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'lib-my-lib',
+  selector: 'header-my-lib',
   template: `
     <p>
-      my-lib works!
+      my- header works!
     </p>
   `,
   styles: [
   ]
 })
-export class MyLibComponent implements OnInit {
+export class headerComponent implements OnInit {
 
   constructor() { }
 

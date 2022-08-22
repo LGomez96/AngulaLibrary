@@ -2,7 +2,7 @@
  * Public API Surface of my-lib
  */
 
-export * from './lib/my-lib.service';
-export * from './lib/my-lib.component';
-export * from './lib/my-lib.module';
+export * from './header/header-service.service';
+export * from './header/header.component';
+export * from './header/header.module';
 // agregar los de los 3 componentes creados
